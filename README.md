@@ -1,4 +1,9 @@
-### Hi there 👋
+<img align="left" width="180" height="180" alt="dhhruv" src="https://avatars.githubusercontent.com/u/65593417" />
+
+### Hi, I am YungHan 👋
+
+I am a freelancer engineer, working on multiple project, mainly focus on Android, Kotlin, also using ktor as backend framework, host of Effective Kotlin study jam in Taiwan, love new technique, travel, hiking, animal, and being a foodie.
+<br>
 
 <!--
 **Kenny50/Kenny50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
