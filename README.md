@@ -12,22 +12,27 @@ I am a freelancer engineer, working on multiple project, mainly focus on Android
   - KMM
   - Modularization
   - Backend
-- 🤔 I’m looking for remote job using Kotlin for develop product.
+  
 - 📫 How to reach me: 
   - [Medium](https://medium.com/@kennethchangla)
   - [Gmail](mailto:kennethchangla@gmail.com)
+  - [linkedin](https://www.linkedin.com/in/yh-c/)
+  
 - 😄 Community Event:
   - Speaker
-    - Google devfest Kaohsiung : Modularization project - Nov, 2022
+    - Google devfest Kaohsiung : Modularization project - Nov, 2022, [slideshare](https://www.slideshare.net/ChangKenneth1/devfest-2022-pdf)
     - Wondering : Try out minimum functionality in other language - Nov, 2022
     - Wondering : State machine and state pattern - Aug, 2022
     - Google Developer Group Tainan : Coroutine in Android Development - Mar, 2022
   - Volunteer
     - Google WTM - Apr, 2022
     - Google devfest Tainan - Nov, 2021
-  - Writter
+  - Author
     - Kotlin on the way - Sep, 2022
     - Different usage with Coroutine - Sep, 2021
+  - Study jam : 
+    - Effective Kotlin - organizer, speaker, host
+    - Code complete 2 - attendee
 - ⚡ Fun fact: 
   - Home made craft beer
   - Wine lover
